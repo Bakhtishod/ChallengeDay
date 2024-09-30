@@ -1,0 +1,14 @@
+C:\Users\USER\Desktop\GitHub\ChallengeDay\bin\Debug\net6.0\ChallengeDay.exe
+C:\Users\USER\Desktop\GitHub\ChallengeDay\bin\Debug\net6.0\ChallengeDay.deps.json
+C:\Users\USER\Desktop\GitHub\ChallengeDay\bin\Debug\net6.0\ChallengeDay.runtimeconfig.json
+C:\Users\USER\Desktop\GitHub\ChallengeDay\bin\Debug\net6.0\ChallengeDay.dll
+C:\Users\USER\Desktop\GitHub\ChallengeDay\bin\Debug\net6.0\ChallengeDay.pdb
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.AssemblyInfo.cs
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.dll
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\refint\ChallengeDay.dll
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.pdb
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ChallengeDay.genruntimeconfig.cache
+C:\Users\USER\Desktop\GitHub\ChallengeDay\obj\Debug\net6.0\ref\ChallengeDay.dll
